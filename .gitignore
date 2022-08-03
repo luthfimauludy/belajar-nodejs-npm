@@ -1,5 +1,5 @@
-#ignore folder log
-log/
-
 #ignore  file extension .log
 *.log
+
+#ignore folder node_modules
+node_modules/
